@@ -4,7 +4,7 @@
 
 body {
   font-family: Libre Caslon Text;
-  background-color: #FFAB91;
+  background-color:  #C70039;
 }
 
 .body-text {
@@ -103,18 +103,18 @@ div.menu-pane {
 
 
 .menu-links li:hover a {
-  color: #FFAB91;
+  color:  #C70039;
 }
 
 .menu-links li:first-child:hover a {
   color: black;  
-  background-color: #FFAB91;
+  background-color:  #C70039;
 }
 
 #QC-info {
-  background-color: #FFAB91;
+  background-color:  #C70039;
     border: 2px solid;
-  border-color: #FFAB91;
+  border-color:  #C70039;
 display: block;
   opacity: 0;
   
@@ -129,9 +129,9 @@ opacity: 1;
 }
 
 #DC-info {
-  background-color: #FFAB91;
+  background-color: #C70039;
     border: 2px solid;
-  border-color: #FFAB91;
+  border-color: #C70039;
 display: block;
   opacity: 0;
 }
